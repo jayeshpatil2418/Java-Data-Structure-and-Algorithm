@@ -1,0 +1,5 @@
+1.Number of Digits
+2.Sum of Digits
+3.Reversse Digits
+4.Sum of a series
+5.Factorial
