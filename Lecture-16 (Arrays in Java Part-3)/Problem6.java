@@ -27,7 +27,7 @@ public class Problem6 {
             arr[i]=sc.nextInt();
         }
 
-        System.out.println("The First Repeating Number in the array is : "+lastRepeatNumber(arr));
+        System.out.println("The Last Repeating Number in the array is : "+lastRepeatNumber(arr));
         sc.close();
     }
 }
